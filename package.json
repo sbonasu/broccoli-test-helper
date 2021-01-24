@@ -34,7 +34,7 @@
     "broccoli": "^2.0.0",
     "fixturify": "^0.3.2",
     "fs-tree-diff": "^0.5.9",
-    "tmp": "^0.0.33",
+    "tmp": "^0.2.1",
     "walk-sync": "^0.3.3"
   },
   "devDependencies": {
